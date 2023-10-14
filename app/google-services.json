@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743367929394",
+    "project_id": "romantic-love-c43ee",
+    "storage_bucket": "romantic-love-c43ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743367929394:android:3e95815a3ffefba963962b",
+        "android_client_info": {
+          "package_name": "com.mkcdeveloper.Romantic_love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743367929394-bsj4silu5dell4artq5sh2j334gqg85s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI0FTFFaEr2cMKr7VXdg1EldLT-a4K07U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743367929394-bsj4silu5dell4artq5sh2j334gqg85s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

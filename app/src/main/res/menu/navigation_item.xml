@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home"/>
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/baseline_share"/>
+
+    <item
+        android:id="@+id/more_apps"
+        android:title="More apps"
+        android:icon="@drawable/baseline_more"/>
+
+    <item
+        android:id="@+id/rating"
+        android:title="Rating"
+        android:icon="@drawable/baseline_star"/>
+
+    <item
+        android:id="@+id/privcy"
+        android:title="Privcy Policy"
+        android:icon="@drawable/baseline_policy"/>
+
+</menu>

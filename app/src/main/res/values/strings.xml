@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Romantic_love</string>
+    <string name="Open_Drawer">open drawere</string>
+    <string name="Close_Drawer">close drawere</string>
+    <string name="share">share</string>
+    <string name="text_color">text color</string>
+    <string name="images">images</string>
+    <string name="gradiant">gradiant</string>
+    <string name="background">background</string>
+    <string name="status">status</string>
+    <string name="save">Save</string>
+    <string name="gallery">Gallery</string>
+    <string name="logo">logo</string>
+    <string name="goog_morning">goog morning</string>
+    <string name="good_night">good night</string>
+    <string name="attitude">Attitude</string>
+    <string name="dosti">dosti</string>
+    <string name="mohabat">mohabat</string>
+    <string name="sad">sad</string>
+    <string name="dard">dard</string>
+    <string name="funny">funny</string>
+    <string name="miss_you">miss you</string>
+    <string name="mahakal">Mahakal</string>
+    <string name="text_shayari">दोस्ती एक वो एहसास होता है जो अनजाने लोगो को भी पास लाता है जो हर पल साथ दे वही दोस्त कहलाता है वरना तो अपना साया भी साथ छोड़ जाता है</string>
+
+    //admob ads id
+    <string name="good_morningad">ca-app-pub-5709029477840111/5346386632</string>
+    <string name="good_nightad">ca-app-pub-5709029477840111/4612206693</string>
+    <string name="attitudead">ca-app-pub-5709029477840111/3095891140</string>
+    <string name="mahakalad">ca-app-pub-5709029477840111/8607292022</string>
+    <string name="dardad">ca-app-pub-5709029477840111/3203702356</string>
+    <string name="mohabatad">ca-app-pub-5709029477840111/8264457343</string>
+    <string name="sadad">ca-app-pub-5709029477840111/5981128681</string>
+    <string name="funnyad">ca-app-pub-5709029477840111/1699048997</string>
+    <string name="miss_youad">ca-app-pub-5709029477840111/1699048997</string>
+    <string name="dostiad">ca-app-pub-5709029477840111/9904842072</string>
+    <string name="editad">ca-app-pub-5709029477840111/6759803983</string>
+    <string name="rewarded">ca-app-pub-5709029477840111/1783012738</string>
+
+</resources>
